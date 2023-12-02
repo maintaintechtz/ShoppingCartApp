@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ShoppingCartApp</title>
+
+    <!-- css link-->
+            <link rel="stylesheet"  href="index.css">
+
+    <!--favicon links  from favicon.io-->
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+        <link rel="icon" type of="image/png" sizes="16x16" href="assets/favicon-16x16.png">
+        <link rel="manifest" href="assets/site.webmanifest">
+
+    <!-- adding google fonts here -->
+            <link rel="preconnect" href="https://fonts.googleapi.com">
+            <link rel="preconnect " href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+            <img src="assets/cart.png">
+            
+            <input type="text" id="input-field" placeholder="Tomatoes">
+            <button id="add-button">Add to Basket</button>
+
+            <ul   id="shopping-list"> 
+                
+            </ul>           
+    </div>
+    <!-- here put type module so that we can be able to import and export functions-->
+    <!--Remember can use a type module  with local server you will have to set up a local server in order  to use type module -->
+        <script src="index.js" type="module"></script> 
+        
+        <!--<script src="https://www.gstatic.com/firebasejs/9.15.0/firebase-app.js" type="module"></script>
+        <script src="https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js" type="module"></script>-->
+</body>
+</html>

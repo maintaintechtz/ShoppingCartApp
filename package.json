@@ -1,0 +1,15 @@
+{
+  "name": "addtocartapp",
+  "version": "1.0.0",
+  "description": "use to add items and outcheck them if purchased",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ally Diah",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.4.0",
+    "firebase-admin": "^11.11.0"
+  }
+}
