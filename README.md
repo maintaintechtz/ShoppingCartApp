@@ -1,11 +1,11 @@
 # ShoppingCartApp
 
 
-# Add to Cut Application
+# Add to Cart Application
 
 ## Overview
 
-The Add to Cut application is a web-based project that allows users to efficiently manage and organize their tasks or items by adding them to a cutting-edge list. The application is built using HTML, CSS, and JavaScript for the frontend, while Firebase serves as the database for real-time data storage. Additionally, Node.js is employed as the server to handle requests and avoid CORS errors during development.
+The Add to Cart application is a web-based project that allows users to efficiently manage and organize their tasks or items by adding them to a cutting-edge list. The application is built using HTML, CSS, and JavaScript for the frontend, while Firebase serves as the database for real-time data storage. Additionally, Node.js is employed as the server to handle requests and avoid CORS errors during development.
 
 ## Features
 
@@ -65,11 +65,12 @@ After completing the installation and Firebase configuration, you can run the ap
 npm start
 ```
 
-Visit `http://localhost:3000` in your web browser to access the Add to Cut application.
+Visit `https://shopping-cart-app-allydiah.netlify.app/` in your web browser to see the sample .
 
 ## Contributing
 
 We welcome contributions! If you'd like to contribute to the project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
 
 ## License
 
@@ -77,4 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Thank you for using the Add to Cut application! If you encounter any issues or have suggestions for improvement, please open an issue on the GitHub repository. We appreciate your feedback.
+Thank you for using the Add to Cart application! If you encounter any issues or have suggestions for improvement, please open an issue on the GitHub repository. We appreciate your feedback.
