@@ -57,6 +57,9 @@ To configure Firebase for the project, follow these steps:
 2. Obtain the Firebase configuration settings (API Key, Auth Domain, Database URL, etc.).
 3. Replace the placeholder values in the `firebaseConfig` object within the project's JavaScript files with your Firebase configuration.
 
+## Tutorial
+   - Learn about some of the concepts used in the project.
+   - Link:  [Learning Zone](TUTORIAL.md).
 ## Running the Application
 
 After completing the installation and Firebase configuration, you can run the application locally:
